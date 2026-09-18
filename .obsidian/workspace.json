@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "0ecfe329cf3f236b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12767916c8c3fa44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b938a79901c1ba84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices"
+            }
+          },
+          {
+            "id": "379758366df764c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demo of Dashboard ROI Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demo of Dashboard ROI Detection"
+            }
+          },
+          {
+            "id": "485bb8805b9e5a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Headless live USB-camera object detection with a YOLO26n TensorRT engine on Jetpack 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Headless live USB-camera object detection with a YOLO26n TensorRT engine on Jetpack 6"
+            }
+          },
+          {
+            "id": "c8b7f4685158d04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices"
+            }
+          },
+          {
+            "id": "bd2d67c86adea1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demo of Dashboard ROI Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demo of Dashboard ROI Detection"
+            }
+          },
+          {
+            "id": "5517d5e33df5e70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YOLO26n/Model weights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Model weights"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5c998a154de7ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d7a94726fec8438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf25173749cabf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc1afa6239fc0144",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d59a7306ff3bdd7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad7d4c2013686f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c54f2fb4f676a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d446da7e5b95e1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "23d36b6507f15df7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7ae45dd47d98c648",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62df88479bdc25a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ee60b38c6ef3fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d353f9ad77b631dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 507.9000244140625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c8b7f4685158d04d",
+  "lastOpenFiles": [
+    "My movie 1_1.mp4",
+    "Pasted image 20260918082152.png",
+    "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+    "Demo of Dashboard ROI Detection.md",
+    "HMI validation Man vs Aut.png",
+    "Code/Headless live USB-camera object detection with a YOLO26n TensorRT engine on Jetpack 6.md",
+    "References.md",
+    "YOLO26n/Model weights.md",
+    "Code/live_detect.py",
+    "Code",
+    "Pasted image 20260918104821.png",
+    "Pasted image 20260918104734.png",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/BoxF1_curve.png",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/val_batch0_pred.jpg",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/labels.jpg",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/confusion_matrix.png",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/BoxR_curve.png",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/BoxPR_curve.png",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/weights/last.pt",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/weights/best.pt",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/weights/best.onnx",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/weights/best.engine",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/weights",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/results.csv",
+    "YOLO26n/Jetson Orin training/train_6cls_200e/args.yaml",
+    "YOLO26n/Jetson Orin training/train_6cls_200e"
+  ]
+}
