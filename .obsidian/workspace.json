@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
+                "file": "Demo of Dashboard ROI Detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices"
+              "title": "Demo of Dashboard ROI Detection"
             }
           },
           {
@@ -272,9 +272,9 @@
   },
   "active": "c8b7f4685158d04d",
   "lastOpenFiles": [
+    "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
     "My movie 1_1.mp4",
     "Pasted image 20260918082152.png",
-    "AI-Assisted Automotive HMI Validation Framework to increase automated test coverage of instrument cluster verification on NVIDIA Jetson edge devices.md",
     "Demo of Dashboard ROI Detection.md",
     "HMI validation Man vs Aut.png",
     "Code/Headless live USB-camera object detection with a YOLO26n TensorRT engine on Jetpack 6.md",
@@ -296,7 +296,6 @@
     "YOLO26n/Jetson Orin training/train_6cls_200e/weights/best.engine",
     "YOLO26n/Jetson Orin training/train_6cls_200e/weights",
     "YOLO26n/Jetson Orin training/train_6cls_200e/results.csv",
-    "YOLO26n/Jetson Orin training/train_6cls_200e/args.yaml",
-    "YOLO26n/Jetson Orin training/train_6cls_200e"
+    "YOLO26n/Jetson Orin training/train_6cls_200e/args.yaml"
   ]
 }

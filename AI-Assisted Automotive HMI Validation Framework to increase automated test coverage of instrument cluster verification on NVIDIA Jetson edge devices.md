@@ -8,7 +8,6 @@ Traditionally, Computer Vision solutions based on OpenCV scripts have been devel
 - White Screen
 - Missing Text
 
-
 While effective for specific use cases, rule-based image-processing approaches often require significant engineering effort and are sensitive to environmental factors such as brightness variations, reflections, camera positioning, display design changes, and image quality. As a result, maintaining and extending these scripts across multiple projects and HMI variants can become time-consuming and difficult to scale.
 
 This project investigates how AI-assisted Computer Vision and Edge AI can complement traditional validation methods by automatically detecting dashboard elements, recognizing visible symptoms of HMI issues, and correlating visual observations with expected system behavior. Beyond supporting automated validation, the framework aims to assist engineers during issue analysis by automatically identifying potential symptoms, recording timestamps, and generating visual evidence that accelerates root-cause investigation. 
